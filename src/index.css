@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.myStyle{
+  color: red;
+}
+
+.add-btm{
+  background-color: green;
+  color:white;
+  margin-right: 10px;
+}
+.decrease-btm{
+  background-color:red;
+  color:white;
+  margin-left: 10px;
+}
